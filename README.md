@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>UI, API, and mobile automation using Cypress, Playwright, and Appium<br><br>👯 I’m looking to collaborate on<br>Automation frameworks, API testing, and scalable QA solutions<br><br>🤝 I’m looking for help with<br>Product thinking and transitioning towards product-focused roles<br><br>🌱 I’m currently learning<br>Playwright, performance testing with k6, and advanced JavaScript<br><br>💬 Ask me about<br>Automation strategy, Cypress, API testing, and test design<br><br>⚡ Fun fact<br>I prefer simple solutions over complex ones — even in automation
+QA Automation Engineer with experience in UI, API, and mobile testing.<br>Work with JavaScript/TypeScript, Cypress, Playwright, and Appium to build reliable automation.<br><br>Strong in API testing (Rest Assured, Postman) and backend validation using MySQL and MongoDB.<br>Also exploring performance testing with k6.<br><br>Prefer clean, maintainable solutions and practical problem-solving.<br>Working towards product-focused thinking.
 
 
 ## 🌐 Socials:
